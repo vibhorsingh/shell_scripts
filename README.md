@@ -24,3 +24,9 @@ SEBIED|919869203129|2723581025370000005|2015-12-25 10:25:37|2015-12-25 10:25:37|
 ####Reports Header :
 Date 	File_name/City 	Unique mobile number to whom msg pushed 	Total sms pushed count 	SMS Delivered count
 2015-12-25 SEBI_DLR_20151225.txt,3287200,32412065,15870428
+
+
+
+user_count.sh
+----------
+This script generates a histogram of the number of hits
